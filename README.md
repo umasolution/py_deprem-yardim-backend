@@ -1,0 +1,1 @@
+# py_deprem-yardim-backend
